@@ -10,6 +10,7 @@ dependencies:
   - pyyaml
   - scipy
   - tqdm
+  - pip
   - pip:
     - addict
     - black
